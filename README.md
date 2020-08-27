@@ -1,2 +1,2 @@
 # GoNap
-Keep sleeping past your stop on transit? This app is for you!
+If you keep sleeping past your stop on transit, this app is for you!
